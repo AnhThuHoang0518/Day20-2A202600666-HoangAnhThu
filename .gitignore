@@ -11,4 +11,6 @@ build/
 *.egg-info/
 reports/*.json
 reports/*.md
+!reports/benchmark_report.md
+!reports/last_trace.json
 !.gitkeep
